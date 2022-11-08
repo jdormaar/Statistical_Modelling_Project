@@ -18,7 +18,7 @@
 - Creation of subsequent or secondary functions able to loop through an array of input values to call through the primary function.
 - Finalize the structure of the accumulated data for EDA readiness.
 
-### (your step 2)
+### Step 2
 
 - Cleaned and transformed the collected data to refine the format of data types, organization of the data values, split the data from certain columns into additional columns, and added new columns with additional data where needed to facilitate merges.
 - A Python Pandas dataframe database was created from this data.
